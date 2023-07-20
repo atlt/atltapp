@@ -1,0 +1,7 @@
+{
+  "name": "atltapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
